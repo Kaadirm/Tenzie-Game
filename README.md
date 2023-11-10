@@ -8,6 +8,14 @@ This repository contains a React implementation of the Tenzie game, a dice-based
 
 Check out the live demo [here](https://kaadirm.github.io/Tenzie-Game-React/).
 
+## Larger Screens
+
+![TenziLargerScreens](https://github.com/Kaadirm/Tenzie-Game-React/assets/141996672/23ee6e1e-d592-4b4a-9bcb-3415da0ceb9f)
+
+## Mobile
+
+![TenzieMobiles](https://github.com/Kaadirm/Tenzie-Game-React/assets/141996672/240beb49-4f1b-4e53-ba35-a4c01ceffc95)
+
 ## Tools and Libraries Used
 
 - **React**: A JavaScript library for building user interfaces.
