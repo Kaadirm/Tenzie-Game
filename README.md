@@ -13,9 +13,9 @@ Check out the live demo [here](https://kaadirm.github.io/Tenzie-Game-React/).
 ![TenziLargerScreens](https://github.com/Kaadirm/Tenzie-Game-React/assets/141996672/23ee6e1e-d592-4b4a-9bcb-3415da0ceb9f)
 
 ## Mobile
-<div align="center">
+<p align="center">
   ![TenzieMobiles](https://github.com/Kaadirm/Tenzie-Game-React/assets/141996672/240beb49-4f1b-4e53-ba35-a4c01ceffc95)
-</div>
+</p>
 
 
 ## Tools and Libraries Used
